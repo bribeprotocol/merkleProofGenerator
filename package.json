@@ -1,0 +1,20 @@
+{
+  "name": "merkleproofgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node index.ts",
+    "prettier": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.2",
+    "ts-node": "^10.4.0",
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
